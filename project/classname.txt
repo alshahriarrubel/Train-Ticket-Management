@@ -1,0 +1,9 @@
+1 Shovon_chair
+2 Snigdha
+3 Ac_seat
+4 Ac_Birth
+5 First_Chair
+6 First_Birth
+7 First_Seat
+8 Shuvon
+9 sulov
